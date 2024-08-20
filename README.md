@@ -1,4 +1,4 @@
-# Solargraph
+# Solargraph with bundler 1.0 requirement 
 
 [![RSpec](https://github.com/castwide/solargraph/actions/workflows/rspec.yml/badge.svg)](https://github.com/castwide/solargraph/actions/workflows/rspec.yml)
 
